@@ -1,4 +1,4 @@
-Guo-qing Jiang
+<!--Guo-qing Jiang
 ============
 <img src="figures/avatar.jpg?raw=true" width="200" align="right"/>
 
@@ -11,7 +11,7 @@ My research spans hurricane, climate, physical ocean and AI. I focus on theoriti
 I work on a number of cross-projects in climate change, physic ocean, and CS. They usually involve coding in Python, Fortran and Pytorch. My detailed education and experience can be found in [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/).
 
 [GitHub](https://github.com/Ageliss) / [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/) / [GoogleScholar](https://scholar.google.com/citations?user=kCBHjI4AAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Guo_Qing_Jiang)
-
+-->
 
 <!-- Education
 ---------
