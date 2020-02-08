@@ -1,4 +1,16 @@
-<!--Guo-qing Jiang
+Education:
+----------------------------------------
+<img src="figures/mit.jpg?raw=true" width="200" align="right"/>
+
+I received my Ph.D degree of "Climate Sciences" at School of [Physics](http://www.phy.pku.edu.cn/) of [PekingUniversity](https://www.pku.edu.cn/) supervised by Prof. Jun Wei([page](http://www.atmos.pku.edu.cn/en/Faculty/Fulltimefaculty/64750.htm)). During my Ph.D career, I visited [EAPS](https://eapsweb.mit.edu/) of [MIT](http://www.mit.edu/) for one year, hosted by Prof. Paola Malanotte-Rizzoli([page](http://web.mit.edu/rizzoli/Public/)).
+
+My research spans hurricane, climate, physical ocean and AI. I focus on theoritically understanding the generalization of deep learning and applying ML to climate-ocean and hurricane (typhoon) prediction problems. I enjoyed making applications of AI and ML on climate, physical ocean, natural disasters, and so on.
+
+<img src="figures/pku.jpg?raw=true" width="200" align="right"/>
+
+I work on a number of cross-projects in climate change, physic ocean, and CS. They usually involve coding in Python, Fortran and Pytorch. My detailed education and experience can be found in [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/).
+
+<!--Guo-qing Jiang. original version
 ============
 <img src="figures/avatar.jpg?raw=true" width="200" align="right"/>
 
@@ -11,7 +23,6 @@ My research spans hurricane, climate, physical ocean and AI. I focus on theoriti
 I work on a number of cross-projects in climate change, physic ocean, and CS. They usually involve coding in Python, Fortran and Pytorch. My detailed education and experience can be found in [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/).
 
 [GitHub](https://github.com/Ageliss) / [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/) / [GoogleScholar](https://scholar.google.com/citations?user=kCBHjI4AAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Guo_Qing_Jiang)
-
 -->
 
 <!-- Education
