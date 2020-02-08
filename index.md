@@ -3,13 +3,26 @@ Guo-qing Jiang
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  <img align=right width="200" src="./figures/avatar.jpg">
+>  I am currently a Assistant Research Scientist at Chinese Meteorology Bureau. Before that, I was a [KUAI Tec.](https://www.kuaishou.com/) AI Algorithm Engineer working on understanding deep learning, face locallization, etc...
+
+> <!-- During my year at Google Research, I started and led 5 projects collaborating with researchers from Google Brain and DeepMind.
+
+> My research spans physics, AI, and deep learning. I focus on developing scientific understanding of deep learning and applying ML to quantum and astrophysics problems. I am excited about applications of artificial intelligence and machine learning in physics, emergent phenomena, and the role of complexity in physical systems.
+
+> I completed my Bachelors and Masters (Part III of the Tripos) at Trinity College, University of Cambridge, and another Masters at Stanford University.
+
+> I worked at Institute of Astronomy on galaxy clusters in X-ray, Albert Einstein Institute on large scale data mining for pulsar discovery, Perimeter Institute for Theoretical Physics on perturbative approaches to black hole formation in AdS-like geometries, and DAMTP on cross-correlations of gamma-rays and the CMB in the sky.
+
+> I actively co-organize and coach at the Czech Astronomy Olympiad, setting problems and preparing students for the IOAA. I sometimes lecture at the Czech Physics Olympiad and prepare students for IPhO. I co-organized the 1st and 2nd International Workshop on Astronomy and Astrophysics in Estonia and the Czech Republic. I am also an amateur astrophotographer. -->
+
+> On top of my research, I work on a number of side projects in climate change, physic ocean, and CS. They usually involve coding in Python, Fortran and Pytorch. My detailed education and experience can be found in [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/).
+
+> <center>[GitHub](https://github.com/Ageliss) / [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/) / [GoogleScholar](https://scholar.google.com/citations?user=kCBHjI4AAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Guo_Qing_Jiang) </center>
 
 ----
 
-Education
+<!-- Education
 ---------
 
 2010-2014 (expected)
@@ -79,12 +92,53 @@ Programming Languages
 
 :   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+[ref]: https://github.com/githubuser/superlongprojectname -->
 
-Extra Section, Call it Whatever You Want
+Research:
 ----------------------------------------
+I'm interested in AI, climate science and physical ocean. My current focus is on deep learning theory and applying deep learning methods to the climate-ocean models.
 
-* Human Languages:
+<img align=right width="300" src="./figures/2018_GRL.png">
+
+3.[A deep learning algorithm of neural network for the parameterization of typhoon‐ocean feedback in typhoon forecast models](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2018GL077004)
+
+**Guo‐Qing Jiang**, Jing Xu, Jun Wei (2018)
+
+Two algorithms based on machine learning neural networks are proposed—the shallow learning (S‐L) and deep learning (D‐L) algorithms—that can potentially be used in atmosphere‐only typhoon forecast models to provide flow‐dependent typhoon‐induced sea surface temperature cooling (SSTC) for improving typhoon predictions. 
+
+Accepted for publication in [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/journal/19448007)
+<br/>
+<br/>
+<br/>
+
+<img align=right width="300" src="./figures/2018_Acta.png">
+
+2.[Parameterizing sea surface temperature cooling induced by tropical cyclones using a multivariate linear regression model](https://link.springer.com/article/10.1007/s13131-018-1153-0)
+
+Jun Wei, Xin Liu, **Guoqing Jiang** (2018)
+
+Combining a linear regression and a temperature budget formula, a multivariate regression model is proposed to parameterize and estimate sea surface temperature (SST) cooling induced by tropical cyclones (TCs).
+
+Accepted for publication in [Acta Oceanologica Sinica](https://link.springer.com/journal/13131)
+<br/>
+<br/>
+<br/>
+
+<img align=right width="300" src="./figures/2017_OD.png">
+
+1.[Parameterization of typhoon-induced ocean cooling using temperature equation and machine learning algorithms: an example of typhoon Soulik (2013)](https://link.springer.com/article/10.1007/s10236-017-1082-z)
+
+J Wei, **GQ Jiang**, X Liu (2017)
+
+This study proposed three algorithms that can poten- tially be used to provide sea surface temperature (SST) condi- tions for typhoon prediction models.
+
+Accepted for publication in [Ocean Dynamics](https://link.springer.com/journal/10236)
+<br/>
+<br/>
+<br/>
+
+
+<!-- * Human Languages:
 
      * English (native speaker)
      * ???
@@ -92,9 +146,8 @@ Extra Section, Call it Whatever You Want
 
 * Random tidbit
 
-* Other sort of impressive-sounding thing you did
+* Other sort of impressive-sounding thing you did -->
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> Contact me: <jianggq@pku.edu.cn>
