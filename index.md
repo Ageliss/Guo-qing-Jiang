@@ -3,9 +3,11 @@ Guo-qing Jiang
 <!--![figure](https://user-images.githubusercontent.com/11551984/74080957-4ad78c00-4a84-11ea-9994-70d7c7c7c4bb.png)-->
 
 <img align=right width="200" src="https://user-images.githubusercontent.com/11551984/74080957-4ad78c00-4a84-11ea-9994-70d7c7c7c4bb.png">
-I am currently a Assistant Research Scientist at Chinese Meteorology Bureau. Before that, I was a [KUAI_Tec.](https://www.kuaishou.com/) AI Algorithm Engineer working on understanding deep learning, face locallization, etc...
+I am currently a Assistant Research Scientist at Chinese Meteorology Bureau. Before that, I was a [KUAI_Tec](https://www.kuaishou.com) AI Algorithm Engineer working on understanding deep learning, face locallization, etc...
 
-On top of my research, I work on a number of side projects in climate change, physic ocean, and CS. They usually involve coding in Python, Fortran and Pytorch. My detailed education and experience can be found in [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/).
+My research spans climate, physical ocean and AI. I focus on theoritically understanding the generalization ability of deep learning and applying ML to climate-ocean and hurricane (typhoon) prediction problems. I enjoyed making applications of AI and ML in climate, physical ocean, natural disasters, and so on.
+
+On top of my research, I work on a number of cross-projects in climate change, physic ocean, and CS. They usually involve coding in Python, Fortran and Pytorch. My detailed education and experience can be found in [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/).
 
 [GitHub](https://github.com/Ageliss) / [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/) / [GoogleScholar](https://scholar.google.com/citations?user=kCBHjI4AAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Guo_Qing_Jiang)
 
