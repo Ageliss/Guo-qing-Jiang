@@ -6,7 +6,7 @@ test-->
 
 <!--<img src="figures/avatar.jpg?raw=true" align=right width="200"/>-->
 
-<img src="figures/avatar.jpg?raw=true" width="200"/>
+<img src="figures/avatar.jpg?raw=true" width="200" align="right"/>
 
 I am currently a Assistant Research Scientist at Chinese Meteorology Bureau. Before that, I was a [KUAI](https://www.kuaishou.com) Tec. AI Algorithm Engineer working on understanding deep learning, face locallization, etc...
 
