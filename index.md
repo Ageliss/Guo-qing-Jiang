@@ -1,14 +1,12 @@
 Guo-qing Jiang
 ============
-<!--![figure](https://user-images.githubusercontent.com/11551984/74080957-4ad78c00-4a84-11ea-9994-70d7c7c7c4bb.png)-->
-
-test
+<!--test
 <img src="figures/2017_OD.png?raw=true" width="100"/>
-test
+test-->
 
-<!--<img align=right width="200" src="https://user-images.githubusercontent.com/11551984/74080957-4ad78c00-4a84-11ea-9994-70d7c7c7c4bb.png"/>-->
+<!--<img src="figures/avatar.jpg?raw=true" align=right width="200"/>-->
 
-<img src="figures/avatar.jpg?raw=true" align=right width="200"/>
+<img src="figures/avatar.jpg?raw=true" width="200"/>
 
 I am currently a Assistant Research Scientist at Chinese Meteorology Bureau. Before that, I was a [KUAI](https://www.kuaishou.com) Tec. AI Algorithm Engineer working on understanding deep learning, face locallization, etc...
 
@@ -95,7 +93,7 @@ Research:
 ----------------------------------------
 I'm interested in AI, climate science and physical ocean. My current focus is on deep learning theory and applying deep learning methods to the climate-ocean models.
 
-<img align=right width="300" src="https://user-images.githubusercontent.com/11551984/74082539-fe954780-4a95-11ea-8928-f0b9660afdfd.png">
+<img width="300" src="https://user-images.githubusercontent.com/11551984/74082539-fe954780-4a95-11ea-8928-f0b9660afdfd.png">
 
 7.[Understanding Why Neural Networks Generalize Well Through GSNR of Parameters](https://arxiv.org/abs/2001.07384)
 
@@ -108,7 +106,7 @@ Accepted as **spotlight talk** in [ICLR 2020](https://iclr.cc/Conferences/2020/D
 <br/>
 <br/>
 
-<img align=right width="300" src="https://user-images.githubusercontent.com/11551984/74082446-f2f55100-4a94-11ea-950d-1393fea4f153.png">
+<img width="300" src="https://user-images.githubusercontent.com/11551984/74082446-f2f55100-4a94-11ea-950d-1393fea4f153.png">
 
 6.[Seasonal and interannual variability of the subsurface velocity profile of the Indonesian Throughflow at Makassar Strait](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014884)
 
@@ -121,7 +119,7 @@ Accepted for publication in [Journal of Geophysical Research: Oceans](https://ag
 <br/>
 <br/>
 
-<img align=right width="300" src="https://user-images.githubusercontent.com/11551984/74082403-79f5f980-4a94-11ea-981f-20143078845e.png">
+<img width="300" src="https://user-images.githubusercontent.com/11551984/74082403-79f5f980-4a94-11ea-981f-20143078845e.png">
 
 5.[Exploring the Importance of the Mindoro‐Sibutu Pathway to the Upper‐Layer Circulation of the South China Sea and the Indonesian Throughflow](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014910)
 
@@ -134,7 +132,7 @@ Accepted for publication in [Journal of Geophysical Research: Oceans](https://ag
 <br/>
 <br/>
 
-<img align=right width="300" src="https://user-images.githubusercontent.com/11551984/74082321-c3921480-4a93-11ea-80b5-4ec3a9ed988e.png">
+<img width="300" src="https://user-images.githubusercontent.com/11551984/74082321-c3921480-4a93-11ea-80b5-4ec3a9ed988e.png">
 
 4.[Multi-decadal timeseries of the Indonesian throughflow](https://www.sciencedirect.com/science/article/pii/S0377026517301021)
 
