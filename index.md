@@ -1,14 +1,14 @@
 Guo-qing Jiang
 ============
+<!--![figure](https://user-images.githubusercontent.com/11551984/74080957-4ad78c00-4a84-11ea-9994-70d7c7c7c4bb.png)-->
 
->  <img align=right width="200" src="https://user-images.githubusercontent.com/11551984/74080957-4ad78c00-4a84-11ea-9994-70d7c7c7c4bb.png">
->  I am currently a Assistant Research Scientist at Chinese Meteorology Bureau. Before that, I was a [KUAI Tec.](https://www.kuaishou.com/) AI Algorithm Engineer working on understanding deep learning, face locallization, etc...
+<img align=right width="200" src="https://user-images.githubusercontent.com/11551984/74080957-4ad78c00-4a84-11ea-9994-70d7c7c7c4bb.png">
+I am currently a Assistant Research Scientist at Chinese Meteorology Bureau. Before that, I was a [KUAI_Tec.](https://www.kuaishou.com/) AI Algorithm Engineer working on understanding deep learning, face locallization, etc...
 
-> On top of my research, I work on a number of side projects in climate change, physic ocean, and CS. They usually involve coding in Python, Fortran and Pytorch. My detailed education and experience can be found in [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/).
+On top of my research, I work on a number of side projects in climate change, physic ocean, and CS. They usually involve coding in Python, Fortran and Pytorch. My detailed education and experience can be found in [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/).
 
-> <center>[GitHub](https://github.com/Ageliss) / [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/) / [GoogleScholar](https://scholar.google.com/citations?user=kCBHjI4AAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Guo_Qing_Jiang) </center>
+[GitHub](https://github.com/Ageliss) / [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/) / [GoogleScholar](https://scholar.google.com/citations?user=kCBHjI4AAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Guo_Qing_Jiang)
 
-----
 
 <!-- Education
 ---------
@@ -85,6 +85,58 @@ Programming Languages
 Research:
 ----------------------------------------
 I'm interested in AI, climate science and physical ocean. My current focus is on deep learning theory and applying deep learning methods to the climate-ocean models.
+
+<img align=right width="300" src="https://user-images.githubusercontent.com/11551984/74082539-fe954780-4a95-11ea-8928-f0b9660afdfd.png">
+
+7.[Understanding Why Neural Networks Generalize Well Through GSNR of Parameters](https://arxiv.org/abs/2001.07384)
+
+Jinlong Liu, **Guoqing Jiang**, Yunzhi Bai, Ting Chen, Huayan Wang (2020)
+
+Based on several approximations, we establish a quantitative relationship between model parameters' GSNR and the generalization gap. This relationship indicates that larger GSNR during training process leads to better generalization performance. Moreover, different from that of shallow models (e.g. logistic regression, support vector machines), the gradient descent optimization dynamics of DNNs naturally produces large GSNR during training, which is probably the key to DNNs' remarkable generalization ability.
+
+Accepted as **spotlight talk** in [ICLR 2020](https://iclr.cc/Conferences/2020/Dates) in Addis Ababa, Ethiopia.
+<br/>
+<br/>
+<br/>
+
+<img align=right width="300" src="https://user-images.githubusercontent.com/11551984/74082446-f2f55100-4a94-11ea-950d-1393fea4f153.png">
+
+6.[Seasonal and interannual variability of the subsurface velocity profile of the Indonesian Throughflow at Makassar Strait](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014884)
+
+**Guo‐Qing Jiang**, Jun Wei, Paola Malanotte‐Rizzoli, Mingting Li, Arnold L Gordon (2019)
+
+The seasonal variability of the depth of the ITF velocity maximum is partially controlled by the seasonally reversed Karimata throughflow, while the remainder primarily originated from the Mindanao–Sulawesi inflow rather than the Sibutu Strait throughflow.
+
+Accepted for publication in [Journal of Geophysical Research: Oceans](https://agupubs.onlinelibrary.wiley.com/journal/21699291)
+<br/>
+<br/>
+<br/>
+
+<img align=right width="300" src="https://user-images.githubusercontent.com/11551984/74082403-79f5f980-4a94-11ea-981f-20143078845e.png">
+
+5.[Exploring the Importance of the Mindoro‐Sibutu Pathway to the Upper‐Layer Circulation of the South China Sea and the Indonesian Throughflow](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014910)
+
+Mingting Li, Jun Wei, Dongxiao Wang, Arnold L Gordon, Song Yang, Paola Malanotte‐Rizzoli, **Guoqing Jiang** (2019)
+
+Closing the Sibutu Strait reduces the Luzon Strait throughflow into the SCS by 75%, and the Mindoro–Sibutu deep exchange is reversed, thus flowing into the SCS. No significant change occurs over the shallow Sunda Shelf of the southern SCS, which is primarily driven by local monsoon winds.
+
+Accepted for publication in [Journal of Geophysical Research: Oceans](https://agupubs.onlinelibrary.wiley.com/journal/21699291)
+<br/>
+<br/>
+<br/>
+
+<img align=right width="300" src="https://user-images.githubusercontent.com/11551984/74082321-c3921480-4a93-11ea-80b5-4ec3a9ed988e.png">
+
+4.[Multi-decadal timeseries of the Indonesian throughflow](https://www.sciencedirect.com/science/article/pii/S0377026517301021)
+
+Mingting Li, Arnold L Gordon, Jun Wei, Laura K Gruenburg, **Guoqing Jiang** (2018)
+
+NCEP reanalysis wind data from 1948 to 2016 and Makassar Strait transport from 2004 to 2011 are used to construct a multi-decadal timeseries of 0–300 m Makassar Throughflow using a back-propagation (BP) neural network. 
+
+Accepted for publication in [Dynamics of Atmospheres and Oceans](https://www.sciencedirect.com/journal/dynamics-of-atmospheres-and-oceans)
+<br/>
+<br/>
+<br/>
 
 <img align=right width="300" src="https://user-images.githubusercontent.com/11551984/74080804-d6501d80-4a82-11ea-9500-8bedeac22ae0.png">
 
