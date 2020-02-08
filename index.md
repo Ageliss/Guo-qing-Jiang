@@ -1,6 +1,6 @@
 Guo-qing Jiang
 ============
-
+![image](https://user-images.githubusercontent.com/11551984/74080804-d6501d80-4a82-11ea-9500-8bedeac22ae0.png)
 ----
 
 >  <img align=right width="200" src="./figures/avatar.jpg">
