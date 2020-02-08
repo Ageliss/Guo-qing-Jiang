@@ -3,7 +3,7 @@ Guo-qing Jiang
 <!--![figure](https://user-images.githubusercontent.com/11551984/74080957-4ad78c00-4a84-11ea-9994-70d7c7c7c4bb.png)-->
 
 test
-<img src="figures/2017_OD.png?raw=true"/>
+<img src="figures/2017_OD.png?raw=true" width="100"/>
 test
 
 <!--<img align=right width="200" src="https://user-images.githubusercontent.com/11551984/74080957-4ad78c00-4a84-11ea-9994-70d7c7c7c4bb.png"/>-->
