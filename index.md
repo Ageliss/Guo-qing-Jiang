@@ -2,13 +2,14 @@ Education:
 ----------------------------------------
 <img src="figures/mit.jpg?raw=true" width="200" align="right"/>
 
-I received my Ph.D degree of "Climate Sciences" at School of [Physics](http://www.phy.pku.edu.cn/) of [PekingUniversity](https://www.pku.edu.cn/) supervised by Prof. Jun Wei([page](http://www.atmos.pku.edu.cn/en/Faculty/Fulltimefaculty/64750.htm)). During my Ph.D career, I visited [EAPS](https://eapsweb.mit.edu/) of [MIT](http://www.mit.edu/) for one year, hosted by Prof. Paola Malanotte-Rizzoli([page](http://web.mit.edu/rizzoli/Public/)).
+I received my Ph.D degree of "Climate Sciences" at School of Physics([page](http://www.phy.pku.edu.cn/)) of [PekingUniversity](https://www.pku.edu.cn/) supervised by Prof. Jun Wei([page](http://www.atmos.pku.edu.cn/en/Faculty/Fulltimefaculty/64750.htm)). During my Ph.D career, I visited [EAPS](https://eapsweb.mit.edu/) of [MIT](http://www.mit.edu/) for one year, hosted by Prof. Paola Malanotte-Rizzoli([page](http://web.mit.edu/rizzoli/Public/)).
 
 My research spans hurricane, climate, physical ocean and AI. I focus on theoritically understanding the generalization of deep learning and applying ML to climate-ocean and hurricane (typhoon) prediction problems. I enjoyed making applications of AI and ML on climate, physical ocean, natural disasters, and so on.
 
 <img src="figures/pku.jpg?raw=true" width="200" align="right"/>
 
-I work on a number of cross-projects in climate change, physic ocean, and CS. They usually involve coding in Python, Fortran and Pytorch. My detailed education and experience can be found in [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/).
+I am working on a number of cross-projects in climate change, physic ocean, and CS. They usually involve coding in Python, Fortran and Pytorch. My detailed education and experience can be found in [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/).
+<br/>
 
 <!--Guo-qing Jiang. original version
 ============
@@ -101,7 +102,7 @@ Research:
 ----------------------------------------
 I'm interested in AI, climate science and physical ocean. My current focus is on deep learning theory and applying deep learning methods to the climate-ocean models.
 
-<img src="https://user-images.githubusercontent.com/11551984/74082539-fe954780-4a95-11ea-8928-f0b9660afdfd.png?raw=true" width="200" align="right"/>
+<img src="figures/2020_ICLR.png?raw=true" width="200" align="right"/>
 
 7.[Understanding Why Neural Networks Generalize Well Through GSNR of Parameters](https://arxiv.org/abs/2001.07384)
 
@@ -114,7 +115,7 @@ Accepted as **spotlight talk** in [ICLR 2020](https://iclr.cc/Conferences/2020/D
 <br/>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/11551984/74082446-f2f55100-4a94-11ea-950d-1393fea4f153.png?raw=true" width="200" align="right"/>
+<img src="figures/2019_JGR2.png?raw=true" width="200" align="right"/>
 
 6.[Seasonal and interannual variability of the subsurface velocity profile of the Indonesian Throughflow at Makassar Strait](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014884)
 
@@ -127,7 +128,7 @@ Accepted for publication in [Journal of Geophysical Research: Oceans](https://ag
 <br/>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/11551984/74082403-79f5f980-4a94-11ea-981f-20143078845e.png?raw=true" width="200" align="right"/>
+<img src="figures/2019_JGR1.png?raw=true" width="200" align="right"/>
 
 5.[Exploring the Importance of the Mindoro‐Sibutu Pathway to the Upper‐Layer Circulation of the South China Sea and the Indonesian Throughflow](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014910)
 
@@ -140,7 +141,7 @@ Accepted for publication in [Journal of Geophysical Research: Oceans](https://ag
 <br/>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/11551984/74082321-c3921480-4a93-11ea-80b5-4ec3a9ed988e.png?raw=true" width="200" align="right"/>
+<img src="figures/2018_DAO.png?raw=true" width="200" align="right"/>
 
 4.[Multi-decadal timeseries of the Indonesian throughflow](https://www.sciencedirect.com/science/article/pii/S0377026517301021)
 
@@ -153,7 +154,7 @@ Accepted for publication in [Dynamics of Atmospheres and Oceans](https://www.sci
 <br/>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/11551984/74080804-d6501d80-4a82-11ea-9500-8bedeac22ae0.png?raw=true" width="200" align="right"/>
+<img src="figures/2018_GRL.png?raw=true" width="200" align="right"/>
 
 3.[A deep learning algorithm of neural network for the parameterization of typhoon‐ocean feedback in typhoon forecast models](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2018GL077004)
 
@@ -166,7 +167,7 @@ Accepted for publication in [Geophysical Research Letters](https://agupubs.onlin
 <br/>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/11551984/74080970-7bb7c100-4a84-11ea-86cd-9f583661c90a.png?raw=true" width="200" align="right"/>
+<img src="figures/2018_Acta.png?raw=true" width="200" align="right"/>
 
 2.[Parameterizing sea surface temperature cooling induced by tropical cyclones using a multivariate linear regression model](https://link.springer.com/article/10.1007/s13131-018-1153-0)
 
@@ -179,7 +180,7 @@ Accepted for publication in [Acta Oceanologica Sinica](https://link.springer.com
 <br/>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/11551984/74080982-9722cc00-4a84-11ea-9ab3-a3487fd36097.png?raw=true" width="200" align="right"/>
+<img src="figures/2017_OD.png?raw=true" width="200" align="right"/>
 
 1.[Parameterization of typhoon-induced ocean cooling using temperature equation and machine learning algorithms: an example of typhoon Soulik (2013)](https://link.springer.com/article/10.1007/s10236-017-1082-z)
 
