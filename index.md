@@ -2,8 +2,13 @@ Guo-qing Jiang
 ============
 <!--![figure](https://user-images.githubusercontent.com/11551984/74080957-4ad78c00-4a84-11ea-9994-70d7c7c7c4bb.png)-->
 
-<img align=right width="200" src="https://user-images.githubusercontent.com/11551984/74080957-4ad78c00-4a84-11ea-9994-70d7c7c7c4bb.png">
-I am currently a Assistant Research Scientist at Chinese Meteorology Bureau. Before that, I was a [KUAI_Tec](https://www.kuaishou.com) AI Algorithm Engineer working on understanding deep learning, face locallization, etc...
+test
+<img src="figures/2017_OD.png?raw=true"/>
+
+test
+
+<img align=right width="200" src="https://user-images.githubusercontent.com/11551984/74080957-4ad78c00-4a84-11ea-9994-70d7c7c7c4bb.png"/>
+I am currently a Assistant Research Scientist at Chinese Meteorology Bureau. Before that, I was a [KUAI](https://www.kuaishou.com) Tec. AI Algorithm Engineer working on understanding deep learning, face locallization, etc...
 
 My research spans climate, physical ocean and AI. I focus on theoritically understanding the generalization ability of deep learning and applying ML to climate-ocean and hurricane (typhoon) prediction problems. I enjoyed making applications of AI and ML in climate, physical ocean, natural disasters, and so on.
 
