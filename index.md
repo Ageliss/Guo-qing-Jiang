@@ -1,9 +1,7 @@
 Guo-qing Jiang
 ============
-![image](https://user-images.githubusercontent.com/11551984/74080804-d6501d80-4a82-11ea-9500-8bedeac22ae0.png)
-----
 
->  <img align=right width="200" src="./figures/avatar.jpg">
+>  <img align=right width="200" src="https://user-images.githubusercontent.com/11551984/74080957-4ad78c00-4a84-11ea-9994-70d7c7c7c4bb.png">
 >  I am currently a Assistant Research Scientist at Chinese Meteorology Bureau. Before that, I was a [KUAI Tec.](https://www.kuaishou.com/) AI Algorithm Engineer working on understanding deep learning, face locallization, etc...
 
 > On top of my research, I work on a number of side projects in climate change, physic ocean, and CS. They usually involve coding in Python, Fortran and Pytorch. My detailed education and experience can be found in [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/).
@@ -88,7 +86,7 @@ Research:
 ----------------------------------------
 I'm interested in AI, climate science and physical ocean. My current focus is on deep learning theory and applying deep learning methods to the climate-ocean models.
 
-<img align=right width="300" src="https://github.com/Ageliss/gqjiang/tree/master/figures/2018_GRL.png">
+<img align=right width="300" src="https://user-images.githubusercontent.com/11551984/74080804-d6501d80-4a82-11ea-9500-8bedeac22ae0.png">
 
 3.[A deep learning algorithm of neural network for the parameterization of typhoon‐ocean feedback in typhoon forecast models](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2018GL077004)
 
@@ -101,7 +99,7 @@ Accepted for publication in [Geophysical Research Letters](https://agupubs.onlin
 <br/>
 <br/>
 
-<img align=right width="300" src="./figures/2018_Acta.png">
+<img align=right width="300" src="https://user-images.githubusercontent.com/11551984/74080970-7bb7c100-4a84-11ea-86cd-9f583661c90a.png">
 
 2.[Parameterizing sea surface temperature cooling induced by tropical cyclones using a multivariate linear regression model](https://link.springer.com/article/10.1007/s13131-018-1153-0)
 
@@ -114,7 +112,7 @@ Accepted for publication in [Acta Oceanologica Sinica](https://link.springer.com
 <br/>
 <br/>
 
-<img align=right width="300" src="./figures/2017_OD.png">
+<img align=right width="300" src="https://user-images.githubusercontent.com/11551984/74080982-9722cc00-4a84-11ea-9ab3-a3487fd36097.png">
 
 1.[Parameterization of typhoon-induced ocean cooling using temperature equation and machine learning algorithms: an example of typhoon Soulik (2013)](https://link.springer.com/article/10.1007/s10236-017-1082-z)
 
