@@ -6,16 +6,6 @@ Guo-qing Jiang
 >  <img align=right width="200" src="./figures/avatar.jpg">
 >  I am currently a Assistant Research Scientist at Chinese Meteorology Bureau. Before that, I was a [KUAI Tec.](https://www.kuaishou.com/) AI Algorithm Engineer working on understanding deep learning, face locallization, etc...
 
-> <!-- During my year at Google Research, I started and led 5 projects collaborating with researchers from Google Brain and DeepMind.
-
-> My research spans physics, AI, and deep learning. I focus on developing scientific understanding of deep learning and applying ML to quantum and astrophysics problems. I am excited about applications of artificial intelligence and machine learning in physics, emergent phenomena, and the role of complexity in physical systems.
-
-> I completed my Bachelors and Masters (Part III of the Tripos) at Trinity College, University of Cambridge, and another Masters at Stanford University.
-
-> I worked at Institute of Astronomy on galaxy clusters in X-ray, Albert Einstein Institute on large scale data mining for pulsar discovery, Perimeter Institute for Theoretical Physics on perturbative approaches to black hole formation in AdS-like geometries, and DAMTP on cross-correlations of gamma-rays and the CMB in the sky.
-
-> I actively co-organize and coach at the Czech Astronomy Olympiad, setting problems and preparing students for the IOAA. I sometimes lecture at the Czech Physics Olympiad and prepare students for IPhO. I co-organized the 1st and 2nd International Workshop on Astronomy and Astrophysics in Estonia and the Czech Republic. I am also an amateur astrophotographer. -->
-
 > On top of my research, I work on a number of side projects in climate change, physic ocean, and CS. They usually involve coding in Python, Fortran and Pytorch. My detailed education and experience can be found in [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/).
 
 > <center>[GitHub](https://github.com/Ageliss) / [LinkedIn](https://www.linkedin.com/in/guoqing-jiang-780a5bb2/) / [GoogleScholar](https://scholar.google.com/citations?user=kCBHjI4AAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Guo_Qing_Jiang) </center>
@@ -98,7 +88,7 @@ Research:
 ----------------------------------------
 I'm interested in AI, climate science and physical ocean. My current focus is on deep learning theory and applying deep learning methods to the climate-ocean models.
 
-<img align=right width="300" src="./figures/2018_GRL.png">
+<img align=right width="300" src="https://github.com/Ageliss/gqjiang/tree/master/figures/2018_GRL.png">
 
 3.[A deep learning algorithm of neural network for the parameterization of typhoon‐ocean feedback in typhoon forecast models](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2018GL077004)
 
